@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "header": "Entrepreneurship made fun",
+    "colorNo": "1",
+    "para": "A B C D E F G H"
+  },
+  {
+    "id": "2",
+    "header": "Digital Marketing",
+    "colorNo": "2",
+    "para": " I J K L M N O P Q "
+  },
+  {
+    "id": "3",
+    "header": "Product Management like a pro",
+    "colorNo": "3",
+    "para": "R S T U V W X Y X"
+  },
+  {
+    "id": "4",
+    "header": "Web Dev",
+    "colorNo": "1",
+    "para": "P R A T H E E K"
+  },
+  {
+    "id": "5",
+    "header": "AI & ML",
+    "colorNo": "2",
+    "para": "T H U G"
+  }
+]
