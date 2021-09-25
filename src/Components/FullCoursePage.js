@@ -1,21 +1,20 @@
 import React from "react";
-import data from "../data/CourseData.json";
+import items from "../data/CourseData.json";
 import Slide from "react-reveal/Slide";
 import CourseSlide from "./CourseSlide.js";
 
 function FullCoursePage() {
-  let items = data;
   return (
     <div>
-      {items.map((item) => {
+      {items.map((item, index) => {
         let order = 1;
-        if (item.id % 2 == 0) {
+        if (item.id % 2 === 0) {
           order = 2;
         }
         return (
-          <Slide bottom>
+          <Slide key={index} bottom>
             <CourseSlide
-              key={item.id}
+              key={index}
               header={item.header}
               colorNo={item.colorNo}
               component={`/course/${item.id}`}

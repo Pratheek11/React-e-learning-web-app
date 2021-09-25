@@ -9,7 +9,7 @@ function Page404() {
       <Container>
         <div>
           <RiErrorWarningLine size={40} />
-          <h1>404 Error</h1>
+          <h1>204</h1>
           <p>We will implement this page soon!!</p>
         </div>
       </Container>

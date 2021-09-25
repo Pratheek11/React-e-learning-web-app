@@ -13,16 +13,14 @@ function MainPage() {
       <Slide bottom>
         <ContentsSlide
           slideNo="1"
-          header="Welcome"
-          buttonName="Join Virtual Campus"
+          header="Welcome to"
           para="THE NEXT BIG THING"
-          link="/pager"
         />
       </Slide>
       <div>
         {items.map((item) => {
           let order = 1;
-          if (item.id % 2 == 0) {
+          if (item.id % 2 === 0) {
             order = 2;
           }
           return (

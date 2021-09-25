@@ -38,17 +38,17 @@ const Container = styled.div`
   text-align: center;
 
   ${(props) =>
-    props.colors == 1 &&
+    props.colors === "1" &&
     css`
       background-color: #ddd8c4;
     `}
   ${(props) =>
-    props.colors == 2 &&
+    props.colors === "2" &&
     css`
       background-color: #a3c9ab;
     `}
       ${(props) =>
-    props.colors == 3 &&
+    props.colors === "3" &&
     css`
       background-color: #69a297;
     `}
@@ -63,7 +63,7 @@ const Cover = styled.div`
 `;
 const Paras = styled.div`
   ${(props) =>
-    props.order == "2" &&
+    props.order === 2 &&
     css`
       order: 2;
     `}

@@ -1,32 +1,44 @@
 [
   {
     "id": "1",
-    "header": "Entrepreneurship made fun",
+    "header": "Entrepreneurship",
     "colorNo": "1",
-    "para": "A B C D E F G H"
+    "para": "The entrepreneur is defined as someone who has the ability and desire to establish, administer and succeed in a startup venture along with risk entitled to it, to make profits. The best example of entrepreneurship is the starting of a new business venture. The entrepreneurs are often known as a source of new ideas or innovators, and bring new ideas in the market by replacing old with a new invention.It can be classified into small or home business to multinational companies. In economics, the profits that an entrepreneur makes is with a combination of land, natural resources, labour and capital.In a nutshell, anyone who has the will and determination to start a new company and deals with all the risks that go with it can become an Entrepreneur."
   },
   {
     "id": "2",
     "header": "Digital Marketing",
     "colorNo": "2",
-    "para": " I J K L M N O P Q "
+    "para": " Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.Essentially, if a marketing campaign involves digital communication, it's digital marketing. "
   },
   {
     "id": "3",
-    "header": "Product Management like a pro",
+    "header": "Product Management",
     "colorNo": "3",
-    "para": "R S T U V W X Y X"
+    "para": "Product management is an organisational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. Similarly, product lifecycle management (PLM)[1] integrates people, data, processes and business systems. It provides product information for companies and their extended supply chain enterprise ."
   },
   {
     "id": "4",
     "header": "Web Dev",
     "colorNo": "1",
-    "para": "P R A T H E E K"
+    "para": "Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development."
   },
   {
     "id": "5",
-    "header": "AI & ML",
+    "header": "AI",
     "colorNo": "2",
-    "para": "T H U G"
+    "para": "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience. Since the development of the digital computer in the 1940s, it has been demonstrated that computers can be programmed to carry out very complex tasks—as, for example, discovering proofs for mathematical theorems or playing chess—with great proficiency. Still, despite continuing advances in computer processing speed and memory capacity, there are as yet no programs that can match human flexibility over wider domains or in tasks requiring much everyday knowledge. On the other hand, some programs have attained the performance levels of human experts and professionals in performing certain specific tasks, so that artificial intelligence in this limited sense is found in applications as diverse as medical diagnosis, computer search engines, and voice or handwriting recognition."
+  },
+  {
+    "id": "6",
+    "header": "ML",
+    "colorNo": "3",
+    "para": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and predictive maintenance."
+  },
+  {
+    "id": "7",
+    "header": "Android Dev",
+    "colorNo": "1",
+    "para": "An Android Developer is a Software Developer who specializes in designing applications for the Android marketplace. The Android marketplace is the direct competitor to Apple’s app store. This means most of an Android Developer’s job revolves around creating the apps we use on our smartphones and tablets. Android Developers can either work in-house for a large organization, or they can be employed by an App Development agency.The role of Android Developer is a skilled, entry-level position. Employers often require a bachelor’s degree in software development or a related field, but they typically do not require work experience as an Android Developer. The next rung on the career ladder would be Senior Android Developer, which involves taking on leadership and mentorship roles."
   }
 ]
